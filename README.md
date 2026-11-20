@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi, I'm Mohammad Altaf 👋
+# Hi, I'm Md-Altaf 👋
 
-### Java Backend Developer | Spring Boot | REST APIs
+### Backend Developer | Java | Spring Boot | Node.js
 
-Building secure, scalable and maintainable backend applications.
+Building backend applications, REST APIs and secure, maintainable services.
+
+<img src="https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-Spring_Boot-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge" />
 
 </div>
 
@@ -12,27 +16,48 @@ Building secure, scalable and maintainable backend applications.
 
 ## 👨‍💻 About Me
 
-- 💻 Focused on Java Backend Development.
-- 🚀 Building REST APIs using Spring Boot.
-- 🗄️ Working with relational databases and backend architecture.
-- 🔐 Exploring authentication, authorization and application security.
-- 📚 Improving my problem-solving skills through DSA.
-- 🎯 Focused on writing clean, maintainable and efficient code.
+- 💻 Backend Developer focused on building backend applications and REST APIs.
+- ☕ Developing backend applications using Java and Spring Boot.
+- 🟢 Building backend services using Node.js and Express.js.
+- 🗄️ Working with databases, API integration and backend architecture.
+- 🔐 Implementing authentication and authorization workflows.
+- 📚 Continuously improving my problem-solving and software engineering skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages & Backend Frameworks
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -42,6 +67,7 @@ Building secure, scalable and maintainable backend applications.
 
 - REST API Development
 - Spring Boot Application Development
+- Node.js & Express.js Development
 - Spring Data JPA & Hibernate
 - Authentication & Authorization
 - Database Design & SQL
@@ -53,29 +79,32 @@ Building secure, scalable and maintainable backend applications.
 ## 🚀 Featured Projects
 
 ### 🎓 Student Management API
+
 Backend application for managing student records and related operations.
 
-**Tech:** Java | Spring Boot | MySQL | Spring Data JPA
+**Tech Stack:** Java | Spring Boot | MySQL | Spring Data JPA
 
-🔗 [View Repository](https://github.com/Md-Altaf1/student-management-api)
+[🔗 View Repository](https://github.com/Md-Altaf1/student-management-api)
 
 ---
 
 ### 🔐 Authentication Service
-Backend authentication project focused on authentication workflows and API security.
 
-**Tech:** Java | Spring Boot | Spring Security
+Authentication-focused backend project exploring authentication workflows and API security.
 
-🔗 [View Repository](https://github.com/Md-Altaf1/authService)
+**Tech Stack:** Backend Development | Authentication | APIs
+
+[🔗 View Repository](https://github.com/Md-Altaf1/authService)
 
 ---
 
 ### 🧩 Microservices Backend
-A backend project exploring modular backend services and microservice architecture.
 
-**Tech:** Backend Development | APIs | Microservices
+Backend project exploring modular services and microservice architecture.
 
-🔗 [View Repository](https://github.com/Md-Altaf1/micro-service)
+**Tech Stack:** Backend Development | APIs | Microservices
+
+[🔗 View Repository](https://github.com/Md-Altaf1/micro-service)
 
 ---
 
@@ -93,9 +122,9 @@ A backend project exploring modular backend services and microservice architectu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Altaf1&show_icons=true&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-Altaf1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Md-Altaf1&theme=tokyonight)
+<img height="165" src="https://streak-stats.demolab.com?user=Md-Altaf1&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -105,10 +134,13 @@ A backend project exploring modular backend services and microservice architectu
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Md-Altaf1)
+<a href="https://github.com/Md-Altaf1">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
 
-<!-- Replace the URL below with your LinkedIn profile -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<a href="https://www.linkedin.com/in/md-altaf-48a65935a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -116,6 +148,6 @@ A backend project exploring modular backend services and microservice architectu
 
 <div align="center">
 
-### 💡 Always learning. Always building.
+### 🚀 Always learning. Always building. Always improving.
 
 </div>
